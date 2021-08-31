@@ -1,5 +1,5 @@
 
-lecture 1:
+<h1>lecture 1:</h1>
 
 In this lecture we are trying to find the solutions of the tractable problems
 
