@@ -121,7 +121,7 @@ The algorithms and theorems discussed in class are:
 Here the meaning is: cost of the work done for the problem of size n is equal cost of workdone of (a) number of subproblems of size n/b(assuming n/b as integer otherwise take a ceil of it) plus the additional workdone outside the recursive call which includes the cost of dividing the problem and merging.
 
 
-<hr>          O(![b](https://latex.codecogs.com/gif.latex?n%5E%7Bd%7D)) if d>![c](https://latex.codecogs.com/gif.latex?log_%7Bb%7D%5E%7Ba%7D)
+<          O(![b](https://latex.codecogs.com/gif.latex?n%5E%7Bd%7D)) if d>![c](https://latex.codecogs.com/gif.latex?log_%7Bb%7D%5E%7Ba%7D)
 
    T(n)=  O(![d](https://latex.codecogs.com/gif.latex?n%5E%7Bd%7D)logn) if d=![e](https://latex.codecogs.com/gif.latex?log_%7Bb%7D%5E%7Ba%7D)
 
